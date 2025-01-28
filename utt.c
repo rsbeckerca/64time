@@ -1,3 +1,11 @@
+/*
+ Test program to hack 64-bit timestamps from a 32-bit program in Guardian.
+ This depends on definitions in stat64.h and utime64.h where the aliases
+ are set up. These alias should be embedded in the compatibility layer
+ during integration.
+
+ Copyright (c) 2025 Nexbridge Inc. All Rights Reserved.
+*/
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <stdio.h>
