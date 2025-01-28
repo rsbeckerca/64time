@@ -1,3 +1,6 @@
+# Local test files
+bob*
+
 # Prerequisites
 *.d
 
@@ -11,6 +14,8 @@
 *.ilk
 *.map
 *.exp
+64date
+utt
 
 # Precompiled Headers
 *.gch
