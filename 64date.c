@@ -1,3 +1,9 @@
+/*
+ Simple program to report dates. This is not really intended for integration.
+
+ Copyright (c) 2025 Nexbridge Inc. All Rights Reserved.
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

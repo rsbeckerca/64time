@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Nexbridge Inc. All Rights Reserved.
+
 UTT=/G/data05/randall/utt
 
 all: $(UTT) 64date

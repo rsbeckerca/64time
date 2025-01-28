@@ -1,3 +1,14 @@
+/*
+ This file is derived from HPE NonStop headers. You must have permission
+ to use this file on your system via a license agreement with HPE to even
+ look in this file.
+
+ This file has significant and relevant modifications compared to utime.h
+ which make this all possible.
+
+ Copyright (c) 2025 Nexbridge Inc. All Rights Reserved.
+ Copyright (c) 2014 Hewlett-Packard Company LLC. All Rights Reserved.
+*/
 #ifndef UTIME_64
 #define UTIME_64
 
